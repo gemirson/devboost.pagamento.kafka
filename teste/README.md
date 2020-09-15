@@ -1,1 +1,0 @@
-devboost.dronedelivery.kafka
